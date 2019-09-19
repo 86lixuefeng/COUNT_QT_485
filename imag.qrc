@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>upa.png</file>
+        <file>downa.png</file>
+        <file>fire.png</file>
+        <file>over.png</file>
+        <file>FreeSans.ttf</file>
+    </qresource>
+</RCC>

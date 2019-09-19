@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>downa.png</file>
+        <file>upa.png</file>
+        <file>fire.png</file>
+    </qresource>
+</RCC>
